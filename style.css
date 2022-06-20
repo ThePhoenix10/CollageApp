@@ -1,0 +1,20 @@
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    right: 1px;
+    background-color: grey;
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("Leaves.webp");
+}
+.photo{
+    box-shadow: 0 6px 8px 0 yellow;
+}
+.photo:hover{
+    border-radius: 25px;
+    width: 250px;
+    height: 250px;
+}
